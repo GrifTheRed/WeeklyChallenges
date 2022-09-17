@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "oEluUyBgqira7Q4NOiA51UacraJVW02r3o5Npl1RSOT0sSMSpCisgwW3X0uuSn4IrT+ShuHoEoPxLDJaUDyBhQ==",
+  "dgSpecHash": "SP1SOpalOwQbkYhZN4ZG0kj0pJZMXRVNILXd7ST0wOij0yeyTOx3CTC4WVGXMhs9NlADddrRB08fKpxHsWQ9NQ==",
   "success": true,
   "projectFilePath": "/Users/derekgriffin/Desktop/repos/WeeklyChallenges/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
   "expectedPackageFiles": [
     "/Users/derekgriffin/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "/Users/derekgriffin/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/derekgriffin/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
     "/Users/derekgriffin/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
